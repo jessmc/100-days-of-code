@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 6 - Friday
+
+**Today's Progress**: I created Project 4 of the JavaScript30 Challenge - Array Cardio 1
+
+**Thoughts** 
+I didn't realize that there was also a console.table() . It made reading the data so much easier in the console. I really liked in this lesson that we were taught two ways to manipulate the arrays - one way was a detailed so I understood the code once it was broken down, and the other was a shortened version so that I use less code for the same thing.   
+
+**Link(s) to work**
+1. [Github Link](https://github.com/jessmc/JavaScript30/tree/master/04ArrayCardio)
 
 ### Day 3: January 5 - Thursday
 
