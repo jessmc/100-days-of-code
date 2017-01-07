@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 7 - Saturday
+
+**Today's Progress**: Finished up the Intermediate Algorithm Section of Free Code Camp!
+
+**Thoughts** 
+I read up more about a for...in loop which was needed for the Everything Be True challenege. I think the difference is normally I am used to iterating over an Array where you need to have an index order. So you can use for...in when the order is not important. 
+
+**Link(s) to work**
+1. [Everything Be True](https://www.freecodecamp.com/challenges/everything-be-true)
+2. [Arguments Optional](https://www.freecodecamp.com/challenges/arguments-optional)
+
+
 ### Day 4: January 6 - Friday
 
 **Today's Progress**: I created Project 4 of the JavaScript30 Challenge - Array Cardio 1
