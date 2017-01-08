@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 8 - Sunday
+
+**Today's Progress**: Completed Challenege 5 of JavaScript30
+
+**Thoughts** 
+This project was heavy on CSS transitions. Sometimes I forget that it takes very little JavaScript to make animations, a lot of it comes from CSS that just a few lines of JavaScript can put into action. In this case it was just toggeling between classes on a mouseclick. 
+
+**Link(s) to work**
+1. [Project Link](http://jessicaciarel.li/JavaScript30/05FlexPanels/)
+2. [Github link](https://github.com/jessmc/JavaScript30/tree/master/05FlexPanels)
+
 ### Day 5: January 7 - Saturday
 
 **Today's Progress**: Finished up the Intermediate Algorithm Section of Free Code Camp!
