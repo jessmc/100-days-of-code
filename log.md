@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 9 - Monday
+
+**Today's Progress**: Completed Challenege 6 of JavaScript30
+
+**Thoughts** 
+I liked this project because I was able to practice using regular expressions to search, and sort by city and state. I also learned about using fetch and .then with JSON instead of going through the parsing or get methods. 
+
+**Link(s) to work**
+1. [Project Link](http://jessicaciarel.li/JavaScript30/06TypeAhead/)
+2. [Github link](https://github.com/jessmc/JavaScript30/tree/master/06TypeAhead)
+
 ### Day 6: January 8 - Sunday
 
 **Today's Progress**: Completed Challenege 5 of JavaScript30
