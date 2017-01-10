@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 10 - Tuesday
+
+**Today's Progress**: Completed Challenege 7 and 8 of JavaScript30
+
+**Thoughts** 
+Built my first canvas. Enjoyed learning about hue and will be using [Mothereffing HSL](http://mothereffinghsl.com/) as a reference in the future.
+
+**Link(s) to work**
+1. [Github Link - 07 Array Cardio 2](http://jessicaciarel.li/JavaScript30/07ArrayCardio2/)
+2. [Github Link - 08 HTML5 Canvas](https://github.com/jessmc/JavaScript30/tree/master/08HTML5Canvas)
+
 ### Day 7: January 9 - Monday
 
 **Today's Progress**: Completed Challenege 6 of JavaScript30
