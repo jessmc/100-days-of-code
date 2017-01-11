@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 11 - Wednesday
+
+**Today's Progress**: Completed Challenege 9 and 10 of JavaScript30
+
+**Thoughts** 
+Got to learn about all the different types of console logs to use within the developer tools, and how to select multiple checkboxes holding down the shift key.
+
+**Link(s) to work**
+1. [Github Link - 09 Dev Tools](https://github.com/jessmc/JavaScript30/tree/master/09DevTools)
+2. [Github Link - 10 HTML5 Canvas](https://github.com/jessmc/JavaScript30/tree/master/10Checkboxes)
+
 ### Day 8: January 10 - Tuesday
 
 **Today's Progress**: Completed Challenege 7 and 8 of JavaScript30
