@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 12 - Thursday
+
+**Today's Progress**: Completed Challenege 11 of JavaScript30
+
+**Thoughts** 
+Today's project was really interesting - I got to change the layout of a video player. I felt accomplished when I was able to add the fullscreen option at the end without help using the Fullscreen API. 
+
+**Link(s) to work**
+1. [Video Player](http://jessicaciarel.li/JavaScript30/11VideoPlayer/)
+2. [Github Link - 11 Video Player](https://github.com/jessmc/JavaScript30/tree/master/11VideoPlayer)
+
 ### Day 9: January 11 - Wednesday
 
 **Today's Progress**: Completed Challenege 9 and 10 of JavaScript30
