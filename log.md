@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 13 - Friday
+
+**Today's Progress**: Completed Challeneges 12 and 13 of JavaScript30
+
+**Thoughts** 
+The use of cornify in the first challenege is so funny. I want to use that on everything. The secret code is my first name. For the second challenege, in the past I've used the plugin Waypoints to do this. I like that I now know how to do it with plain JavaScript, and may try to go back to past projects and replace it with my own code.
+
+**Link(s) to work**
+1. [Github Link - 12 Key Sequence](https://github.com/jessmc/JavaScript30/tree/master/12KeySequence/)
+2. [Github Link - 13 Slide In On Scroll](https://github.com/jessmc/JavaScript30/tree/master/13SlideInOnScroll)
+
 ### Day 10: January 12 - Thursday
 
 **Today's Progress**: Completed Challenege 11 of JavaScript30
