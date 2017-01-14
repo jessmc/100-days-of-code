@@ -1,11 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 11: January 13 - Friday
+### Day 12: January 14 - Saturday
 
-**Today's Progress**: Completed Challeneges 12 and 13 of JavaScript30
+**Today's Progress**: Completed Challenge 14 of JavaScript30 and Solved a Kata on CodeWars.com
 
 **Thoughts** 
-The use of cornify in the first challenege is so funny. I want to use that on everything. The secret code is my first name. For the second challenege, in the past I've used the plugin Waypoints to do this. I like that I now know how to do it with plain JavaScript, and may try to go back to past projects and replace it with my own code.
+The JavaScript30 challenge was going over the difference between Referencing and Copying. The Kata involed counting the number of vowels in a string. I used regex which I find I am getting more comfortable with. 
+
+**Link(s) to work**
+1. [Github Link - 14 References vs Copying](https://github.com/jessmc/JavaScript30/tree/master/14References/)
+2. [Codewars Kata - Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/solutions/javascript)
+
+### Day 11: January 13 - Friday
+
+**Today's Progress**: Completed Challenges 12 and 13 of JavaScript30
+
+**Thoughts** 
+The use of cornify in the first challenge is so funny. I want to use that on everything. The secret code is my first name. For the second challenge, in the past I've used the plugin Waypoints to do this. I like that I now know how to do it with plain JavaScript, and may try to go back to past projects and replace it with my own code.
 
 **Link(s) to work**
 1. [Github Link - 12 Key Sequence](https://github.com/jessmc/JavaScript30/tree/master/12KeySequence/)
@@ -13,7 +24,7 @@ The use of cornify in the first challenege is so funny. I want to use that on ev
 
 ### Day 10: January 12 - Thursday
 
-**Today's Progress**: Completed Challenege 11 of JavaScript30
+**Today's Progress**: Completed Challenge 11 of JavaScript30
 
 **Thoughts** 
 Today's project was really interesting - I got to change the layout of a video player. I felt accomplished when I was able to add the fullscreen option at the end without help using the Fullscreen API. 
@@ -24,7 +35,7 @@ Today's project was really interesting - I got to change the layout of a video p
 
 ### Day 9: January 11 - Wednesday
 
-**Today's Progress**: Completed Challenege 9 and 10 of JavaScript30
+**Today's Progress**: Completed Challenge 9 and 10 of JavaScript30
 
 **Thoughts** 
 Got to learn about all the different types of console logs to use within the developer tools, and how to select multiple checkboxes holding down the shift key.
@@ -35,7 +46,7 @@ Got to learn about all the different types of console logs to use within the dev
 
 ### Day 8: January 10 - Tuesday
 
-**Today's Progress**: Completed Challenege 7 and 8 of JavaScript30
+**Today's Progress**: Completed Challenge 7 and 8 of JavaScript30
 
 **Thoughts** 
 Built my first canvas. Enjoyed learning about hue and will be using [Mothereffing HSL](http://mothereffinghsl.com/) as a reference in the future.
@@ -46,7 +57,7 @@ Built my first canvas. Enjoyed learning about hue and will be using [Mothereffin
 
 ### Day 7: January 9 - Monday
 
-**Today's Progress**: Completed Challenege 6 of JavaScript30
+**Today's Progress**: Completed Challenge 6 of JavaScript30
 
 **Thoughts** 
 I liked this project because I was able to practice using regular expressions to search, and sort by city and state. I also learned about using fetch and .then with JSON instead of going through the parsing or get methods. 
@@ -57,7 +68,7 @@ I liked this project because I was able to practice using regular expressions to
 
 ### Day 6: January 8 - Sunday
 
-**Today's Progress**: Completed Challenege 5 of JavaScript30
+**Today's Progress**: Completed Challenge 5 of JavaScript30
 
 **Thoughts** 
 This project was heavy on CSS transitions. Sometimes I forget that it takes very little JavaScript to make animations, a lot of it comes from CSS that just a few lines of JavaScript can put into action. In this case it was just toggeling between classes on a mouseclick. 
@@ -71,7 +82,7 @@ This project was heavy on CSS transitions. Sometimes I forget that it takes very
 **Today's Progress**: Finished up the Intermediate Algorithm Section of Free Code Camp!
 
 **Thoughts** 
-I read up more about a for...in loop which was needed for the Everything Be True challenege. I think the difference is normally I am used to iterating over an Array where you need to have an index order. So you can use for...in when the order is not important. 
+I read up more about a for...in loop which was needed for the Everything Be True challenge. I think the difference is normally I am used to iterating over an Array where you need to have an index order. So you can use for...in when the order is not important. 
 
 **Link(s) to work**
 1. [Everything Be True](https://www.freecodecamp.com/challenges/everything-be-true)
