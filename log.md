@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 13: January 15 - Sunday
+
+**Today's Progress**: Completed Challenge 15 of JavaScript30
+
+**Thoughts** 
+Learning how to use the local storage in my developer tools under the application tab was interesting. I clicked around in there but did not know you can look at arrays there and manipulate them from that tab.  
+
+**Link(s) to work**
+1. [Github Link - 15 Local Storage and Event Delegation](https://github.com/jessmc/JavaScript30/tree/master/15LocalStorage/)
+
 ### Day 12: January 14 - Saturday
 
 **Today's Progress**: Completed Challenge 14 of JavaScript30 and Solved a Kata on CodeWars.com
