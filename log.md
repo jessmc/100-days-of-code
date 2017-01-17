@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 16 - Monday
+
+**Today's Progress**: Completed Challenges 16 and 17 of JavaScript30
+
+**Thoughts** 
+For the first project I had made the error of putting a period before an h1 tag in the query selector and it took me a while to find and fix. I guess that's what happens when you work while tired. I feel like I am getting more familiar with manipulating the page and formulas for X and Y. The second one we used RegEx to remove the | an | and from a sort. 
+
+**Link(s) to work**
+1. [Github Link - 16 Mouse Move](https://github.com/jessmc/JavaScript30/tree/master/16MouseMove/)
+2. [Github Link - 17 Sorting](https://github.com/jessmc/JavaScript30/tree/master/17Sorting/)
 
 ### Day 13: January 15 - Sunday
 
