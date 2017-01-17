@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 17 - Tuesday
+
+**Today's Progress**: Completed Challenges 18 and 19 of JavaScript30
+
+**Thoughts** 
+Loved the explination for exactly how this: % works. Finally understand how to use it. 
+Never knew how to work with the webcam, and also got to create a localhost. Learned a lot today.
+
+**Link(s) to work**
+1. [Github Link - 18 ](https://github.com/jessmc/JavaScript30/tree/master/18AddingTimes/)
+2. [Github Link - 19 Webcam Fun](https://github.com/jessmc/JavaScript30/tree/master/19WebcamFun/)
+
 ### Day 14: January 16 - Monday
 
 **Today's Progress**: Completed Challenges 16 and 17 of JavaScript30
