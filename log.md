@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 18 - Wednesday
+
+**Today's Progress**: Completed Challenges 20 and 21 of JavaScript30
+
+**Thoughts** 
+Today was a bit rough. I loved the dictation lesson but Chrome refused to let the local host allow my microphone so I couldn't test it. Not sure if it's because I was using a local host, but no matter how often I forced 'Allow' on it, it would immediately go back to block. The second project I couldn't really complete because I do not have xcode install to use the iphone simulator. I am running out of room on my laptop and can't install it. But! I was able to follow along which still counted for something right?
+
+**Link(s) to work**
+1. [Github Link - 20 Speech Detection](https://github.com/jessmc/JavaScript30/tree/master/20SpeechDetection)
+2. [Github Link - 21 Geolocation](https://github.com/jessmc/JavaScript30/tree/master/21Geolocation/)
+
 ### Day 15: January 17 - Tuesday
 
 **Today's Progress**: Completed Challenges 18 and 19 of JavaScript30
