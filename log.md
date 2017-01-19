@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 19 - Thursday
+
+**Today's Progress**: Worked on my portfolio and started the Free Code Camp JavaScript calculator
+
+**Thoughts** 
+My portfolio is up! I like how it came out. I put the finishing touches on it with links and made sure it looked ready for both mobile and desktop. Now I am working on Free Code Camp's JavaScript Calculator. I finished the HTML and CSS for it. Now I need to get it to come to life with JavaScript. I made it look like a children's calculator. Enjoying it so far!
+
+**Link(s) to work**
+1. [My portfolio](http://jessicaciarel.li)
+2. [JavaScript Calculator](http://codepen.io/jessmc/full/zNZvLq/)
+
 ### Day 16: January 18 - Wednesday
 
 **Today's Progress**: Completed Challenges 20 and 21 of JavaScript30
