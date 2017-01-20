@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 20 - Friday
+
+**Today's Progress**: Completed Challenges 22 and 23 of JavaScript30
+
+**Thoughts**
+I look forward to continuing the link highlighting project in a futher video. The speech one was a lot of fun and it's always interesting to find out what APIs are already built into your browser and how to manipulate them. 
+
+**Link(s) to work**
+1. [Github link - 22 Link Highlighter](https://github.com/jessmc/JavaScript30/tree/master/22LinkHighlighter)
+2. [Github link - 23 Speech](https://github.com/jessmc/JavaScript30/tree/master/23Speech)
+
 ### Day 17: January 19 - Thursday
 
 **Today's Progress**: Worked on my portfolio and started the Free Code Camp JavaScript calculator
