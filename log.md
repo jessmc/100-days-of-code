@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 22 - Sunday
+
+**Today's Progress**: Completed Challenges 24 and 25 of JavaScript30
+
+**Thoughts**
+Loved the sticky nav lesson. When creating them I always felt like I was doing it the hard way. This way is cleaner and it prevents the navbar from acting weird when scrolling. I'll implement this into future projects. The second lesson went a bit over my head but I put a lot of notes down so I can reference it again. I believe stopPropagation will come in handy in the future.  
+
+**Link(s) to work**
+1. [Github link - 24 Sticky Nav](https://github.com/jessmc/JavaScript30/tree/master/24StickyNav)
+2. [Github link - 25 Event Capture](https://github.com/jessmc/JavaScript30/tree/master/25EventCapture)
+
 ### Day 18: January 20 - Friday
 
 **Today's Progress**: Completed Challenges 22 and 23 of JavaScript30
