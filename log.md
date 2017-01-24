@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 24 - Tuesday
+
+**Today's Progress**: Completed Challenges 28 and 29 of JavaScript30
+
+**Thoughts**
+Todays lessons were math and date heavy which is great because I can always use more practice with pulling that kind of data from the browser. I'm going to put what I learned from the countdown timer to use with the pomodoro timer I'll be starting as a project for free code camp. 
+
+**Link(s) to work**
+1. [Github link - 28 Video Speed](https://github.com/jessmc/JavaScript30/tree/master/28VideoSpeed)
+2. [Github link - 29 Countdown Timer](https://github.com/jessmc/JavaScript30/tree/master/29CountdownTimer)
+
+### Day 20: January 23 - Monday
+
+**Today's Progress**: Completed Challenges 26 and 27 of JavaScript30
+
+**Thoughts**
+Stripe has always been on every list of great responsive websites. I was excited to learn how they did their navigation and realize there is a lot involved in the smallest details sometimes. I am thinking of using the click and drag methods we learned into a slideshow for the projects here. It might be a good way to display each one and what I've learned. 
+
+**Link(s) to work**
+1. [Github link - 26 Stripe Follow](https://github.com/jessmc/JavaScript30/tree/master/26StripeFollow)
+2. [Github link - 27 Click And Drag](https://github.com/jessmc/JavaScript30/tree/master/27ClickAndDrag)
+
 ### Day 19: January 22 - Sunday
 
 **Today's Progress**: Completed Challenges 24 and 25 of JavaScript30
