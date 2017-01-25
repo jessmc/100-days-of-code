@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 25 - Wednesday
+
+**Today's Progress**: Completed Challenge30 of JavaScript30 and started the Daily CSS Images challenege.
+
+**Thoughts**
+I loved the final lesson of JavaScript30 , making a game was a lot of fun and pretty easy. I am looking forward to doing a daily image in css as well. Today was a bear. 
+
+**Link(s) to work**
+1. [Github link - 30 Whack A Mole](https://github.com/jessmc/JavaScript30/tree/master/30WhackAMole)
+2. [Codepen - 001 Bear](http://codepen.io/jessmc/full/qRXgYo/)
+
 ### Day 21: January 24 - Tuesday
 
 **Today's Progress**: Completed Challenges 28 and 29 of JavaScript30
