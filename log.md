@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 26 - Thursday
+
+**Today's Progress**: Day 2 of dailycssimages
+
+**Thoughts**
+Today while making the elephant I got good practice with box-shadow and how to make rounded objects with it. 
+
+**Link(s) to work**
+1. [Codepen - 002 Bear](http://codepen.io/jessmc/full/RKLZoo/)
+
 ### Day 22: January 25 - Wednesday
 
 **Today's Progress**: Completed Challenge30 of JavaScript30 and started the Daily CSS Images challenege.
