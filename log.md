@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 27 - Friday
+
+**Today's Progress**: Day 3 of dailycssimages and worked on FCC JavaScript Calculator
+
+**Thoughts**
+I made a beaver. I was trying to spend some time on the smaller details like the feet and hands but its hard to get away from just making big blobby shapes. For my JavaScript Calculator there are some things I'd like to fix, such as the decimal repeats and I only want it listed once, and for the string to not print out in full, just to have each number shown as its pressed. 
+
+**Link(s) to work**
+1. [Codepen - 003 Beaver](http://codepen.io/jessmc/full/OWOVRw/)
+2. [Codepen - JavaScript Calculator](http://codepen.io/jessmc/full/zNZvLq/)
+
 ### Day 23: January 26 - Thursday
 
 **Today's Progress**: Day 2 of dailycssimages
