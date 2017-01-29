@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 28 - Saturday
+
+**Today's Progress**: Worked on FCC JavaScript Calculator
+
+**Thoughts**
+Continued to work on the Free Code Camp JavaScript Calculator. It has some bugs still. The percent key doesn't work and the output prints only one thing at a time, so double digit numbers are not printed together. 
+
+**Link(s) to work**
+1. [Codepen - JavaScript Calculator](http://codepen.io/jessmc/full/zNZvLq/)
+
 ### Day 24: January 27 - Friday
 
 **Today's Progress**: Day 3 of dailycssimages and worked on FCC JavaScript Calculator
