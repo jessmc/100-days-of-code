@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 26: January 29 - Sunday
+
+**Today's Progress**: Read Chapter 3 of Eleoquent JavaScript and worked on a new Pen
+
+**Thoughts**
+I read about Functions and scope in the book. I created a Bob-omb in CSS that will explode when clicked using JavaScript. I still have more work to do. 
+
+**Link(s) to work**
+1. [Codepen - Bob-omb](http://codepen.io/jessmc/full/xgpwjW/)
+
 ### Day 25: January 28 - Saturday
 
 **Today's Progress**: Worked on FCC JavaScript Calculator
