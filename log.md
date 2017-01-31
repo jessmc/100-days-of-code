@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 27: January 30 - Monday
+
+**Today's Progress**: Daily CSS Image 4 - Tiger
+
+**Thoughts**
+Today I made a tiger with just CSS. I think I am getting faster at putting it together and adding small details. I went with complementary colors orange and blue.  
+
+**Link(s) to work**
+1. [Codepen - Tiger](http://codepen.io/jessmc/full/NdXyvL/)
+
 ### Day 26: January 29 - Sunday
 
 **Today's Progress**: Read Chapter 3 of Eleoquent JavaScript and worked on a new Pen
