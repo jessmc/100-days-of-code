@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 29: February 1 - Wednesday
+
+**Today's Progress**: Daily CSS Image 6 - Clock
+
+**Thoughts**
+For this css image I played around with creating keyframes to apply to the background color so it appears as if its changing from day to night, and to the click so that the minute and hour hands move around in a circle. 
+
+**Link(s) to work**
+1. [Codepen - Clock](http://codepen.io/jessmc/full/vgRExP/)
+
+### Day 28: January 31 - Tuesday
+
+**Today's Progress**: Daily CSS Image 5 - Pick your own Character. I picked Isabelle from Animal Crossing.
+
+**Thoughts**
+I have been playing a lot of Animal Crossing lately and thought I would tackle making one of the main characters. There was a lot of detail involved but it came together nicely! 
+
+**Link(s) to work**
+1. [Codepen - Isabelle](http://codepen.io/jessmc/full/wgyzjo/)
+
 ### Day 27: January 30 - Monday
 
 **Today's Progress**: Daily CSS Image 4 - Tiger
