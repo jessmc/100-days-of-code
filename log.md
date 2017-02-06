@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+### Day 32: February 4 - Saturday
+
+**Today's Progress**: DailyUI Credit Card Checkout
+
+**Thoughts**
+I started a daily ui challenge and worked on day 2 - a credit card checkout. I am finding that my dailyui needs some work but I thought doing a Crayola one will be fun.
+
+**Link(s) to work**
+1. [Codepen.io - Credit Card Checkout](http://codepen.io/jessmc/full/mRKVMz/)
+
+### Day 31: February 3 - Friday
+
+**Today's Progress**: DailyCSSImages Notepad 
+
+**Thoughts**
+For my daily css challenege I had to make a notepad. It ended up getting "picked" on codepen.io!
+
+**Link(s) to work**
+1. [Codepen.io - Notepad](http://codepen.io/jessmc/full/mRLpEz/)
+
+### Day 30: February 2 - Thursday
+
+**Today's Progress**: Free Code Camp's Challenge Pomodoro Clock 
+
+**Thoughts**
+This is one of my first projects using React JS. I was able to get a timer going up but am struggling to set it at a starting time going down. Will still need to work on this one.
+
+**Link(s) to work**
+1. [Free Code Camp Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
+
+
 ### Day 29: February 1 - Wednesday
 
 **Today's Progress**: Daily CSS Image 6 - Clock
