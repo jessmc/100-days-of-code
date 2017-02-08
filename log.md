@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+### Day 35: February 7 - Tuesday
+
+**Today's Progress**: DailyCSSImage day 010 Pencil Jar
+
+**Thoughts**
+Today for daily css images I made a pencil jar with a couple of pencils in there. The Mason jar details were a bit tough and I was able to make the points using borders.  
+
+**Link(s) to work**
+1. [Codepen.io - Pencil Jar](http://codepen.io/jessmc/full/wgEveJ/)
+
+### Day 34: February 6 - Monday
+
+**Today's Progress**: DailyCSSImage day 090 Calendar
+
+**Thoughts**
+I decided to try out V A P O R W A V E and made a calendar with neon pinks greens and blues, palm trees, weird fonts that are separated. The calendar month is Feb 1987. It got picked on codepen and was fun to make. 
+
+**Link(s) to work**
+1. [Codepen.io - Calendar](http://codepen.io/jessmc/full/XpBXBN/)
+
+### Day 33: February 5 - Sunday
+
+**Today's Progress**: Started CodInGame
+
+**Thoughts**
+Gave the first level of codingingame a start. It was fun and I think I'm going to continue with it when I am looking for some fun JavaScript practice. 
+
+**Link(s) to work**
+1. [Codingame.com](https://www.codingame.com/home)
+
 ### Day 32: February 4 - Saturday
 
 **Today's Progress**: DailyUI Credit Card Checkout
