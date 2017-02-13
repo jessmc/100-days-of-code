@@ -1,5 +1,65 @@
 # 100 Days Of Code - Log
 
+### Day 41: February 13 - Monday 
+
+**Today's Progress**: Daily CSS Images 014 Cheesecake
+
+**Thoughts**
+I made a cheesecake with rapsberrys on top and syrup dripping down. 
+
+**Link(s) to work**
+1. [Codepen.io - Cheesecake](http://codepen.io/jessmc/full/XpOWNN/)
+
+### Day 40: February 12 - Sunday
+
+**Today's Progress**: FCC Pomodoro Timer
+
+**Thoughts**
+I worked on my Pomodoro Timer using ReactJS. I did a bit of styling today and will try to get the timer working how I want to set it. 
+
+**Link(s) to work**
+1. [Free Code Camp Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock)
+
+### Day 39: February 11 - Saturday
+
+**Today's Progress**: Eloquent JavaScript
+
+**Thoughts**
+I worked out of Chapter 3 in my Eloquent JavaScript book and worked with Objects and Methods. 
+
+**Link(s) to work**
+1. N/A
+
+### Day 38: February 10 - Friday
+
+**Today's Progress**: DailyCSSImage day 012 Taco
+
+**Thoughts**
+I made a taco cat. 
+
+**Link(s) to work**
+1. [Codepen.io - Taco](http://codepen.io/jessmc/full/YNRrLe/)
+
+### Day 37: February 9 - Thursday
+
+**Today's Progress**: DailyCSSImage day 012 Burger
+
+**Thoughts**
+For the burger challenege I thought I would get a bit outside of the box and make Gene wearing the burger suit from Bob's Burgers. I did notice that when making curved lines it turns out how I want in Chrome but safari and firefox have a different output. 
+
+**Link(s) to work**
+1. [Codepen.io - Burger](http://codepen.io/jessmc/full/rjqKbm/)
+
+### Day 36: February 8 - Wednesday
+
+**Today's Progress**: DailyCSSImage day 011 Pizza
+
+**Thoughts**
+Today for daily css images I made a pizza pie and wanted to give the brick oven effect so I put a brick background behind it, and a board thats used to grab the pizza with out of the oven. I added toppings like pepperoni, olives, green onion, and meatballs. Yum!
+
+**Link(s) to work**
+1. [Codepen.io - Pizza](http://codepen.io/jessmc/full/NdLVNV/)
+
 ### Day 35: February 7 - Tuesday
 
 **Today's Progress**: DailyCSSImage day 010 Pencil Jar
